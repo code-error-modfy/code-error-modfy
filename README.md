@@ -14,8 +14,9 @@
 - ⚙️ Automating business workflows with **n8n** (Instagram, Facebook, Email, OCR pipelines)
 - 🎨 Crafting responsive frontends with **Angular & TypeScript**
 - 🛠️ Backend development with **Laravel, FastAPI, Flask & PHP**
-- 🧠 Exploring **Machine Learning, Deep Learning & NLP**
+- 🌱 Currently exploring **AI Agents, LangGraph & Advanced RAG pipelines**
 - 🎓 M.Sc Data Science, Periyar University (2023–2025)
+- 💡 **Open to freelance & collaboration opportunities**
 - 📫 **Email:** vickyvignesh8695@gmail.com
 
 <br/>
@@ -30,6 +31,7 @@
   <a href="mailto:vickyvignesh8695@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </p>
 
 ---
@@ -53,7 +55,7 @@
 ### 🤖 AI & Automation
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Dify-1A1A1A?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dify-1A1A1A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -90,12 +92,24 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Vignesh's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=radical&hide_border=true" alt="streak" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=radical&show_icons=true&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=default&show_icons=true&hide_border=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Vignesh's GitHub stats" height="165"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=default&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=radical&hide_border=true" alt="streak" height="165"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-error-modfy&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=code-error-modfy&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=code-error-modfy&bg_color=ffffff&color=00802b&line=00802b&point=000000&area=true&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-error-modfy&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+  </picture>
 </p>
 
 <p align="center">
