@@ -93,14 +93,14 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=radical&show_icons=true&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=default&show_icons=true&hide_border=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Vignesh's GitHub stats" height="165"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=radical&show_icons=true&hide_border=true&count_private=true&border_radius=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=default&show_icons=true&hide_border=true&count_private=true&border_radius=15">
+    <img src="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=radical&show_icons=true&hide_border=true&count_private=true&border_radius=15" alt="Vignesh's GitHub stats" height="165"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=radical&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=default&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=radical&hide_border=true" alt="streak" height="165"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=radical&hide_border=true&border_radius=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=default&hide_border=true&border_radius=15">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=radical&hide_border=true&border_radius=15" alt="streak" height="165"/>
   </picture>
 </p>
 
