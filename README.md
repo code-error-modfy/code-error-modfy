@@ -98,6 +98,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-error-modfy&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-error-modfy&style=for-the-badge&color=00ff7f" alt="profile views"/>
-</p>
+
