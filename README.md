@@ -14,24 +14,22 @@
 - ⚙️ Automating business workflows with **n8n** (Instagram, Facebook, Email, OCR pipelines)
 - 🎨 Crafting responsive frontends with **Angular & TypeScript**
 - 🛠️ Backend development with **Laravel, FastAPI, Flask & PHP**
-- 🌱 Currently exploring **AI Agents, LangGraph & Advanced RAG pipelines**
+- 🧠 Exploring **Machine Learning, Deep Learning & NLP**
 - 🎓 M.Sc Data Science, Periyar University (2023–2025)
-- 💡 **Open to freelance & collaboration opportunities**
 - 📫 **Email:** vickyvignesh8695@gmail.com
 
 <br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vignesh-v-b5ba02307/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/code-error-modfy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:vickyvignesh8695@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-2EA44F?style=plastic&logo=checkmarx&logoColor=white" />
 </p>
 
 ---
@@ -39,41 +37,41 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🤖 AI & Automation
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Dify-1A1A1A?style=plastic"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=plastic&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=plastic&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=plastic&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dify-1A1A1A?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools & Platforms
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=plastic&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=plastic&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
@@ -92,26 +90,14 @@
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=radical&show_icons=true&hide_border=true&count_private=true&border_radius=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=default&show_icons=true&hide_border=true&count_private=true&border_radius=15">
-    <img src="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=radical&show_icons=true&hide_border=true&count_private=true&border_radius=15" alt="Vignesh's GitHub stats" height="165"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=radical&hide_border=true&border_radius=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=default&hide_border=true&border_radius=15">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=radical&hide_border=true&border_radius=15" alt="streak" height="165"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Vignesh's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=radical&hide_border=true" alt="streak" height="165"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=code-error-modfy&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=code-error-modfy&bg_color=ffffff&color=00802b&line=00802b&point=000000&area=true&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-error-modfy&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-error-modfy&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-error-modfy&style=plastic&color=00ff7f" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=code-error-modfy&style=for-the-badge&color=00ff7f" alt="profile views"/>
 </p>
