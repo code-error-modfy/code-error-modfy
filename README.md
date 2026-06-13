@@ -1,25 +1,103 @@
-## Hi there 👋 It's me Vignesh
+<h1 align="center">Hi 👋, I'm Vignesh V</h1>
+<h3 align="center">AI & Full Stack Developer | Building Chatbots, Automations & Smart Web Apps</h3>
 
-AI & Full Stack Developer @ Redmind Technologies
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=AI+%26+Full+Stack+Developer;Chatbot+%2B+RAG+Builder+with+Dify;Workflow+Automation+with+n8n;Angular+%7C+TypeScript+%7C+PHP+%7C+Python" alt="Typing SVG" />
+</p>
 
-- 🔭 I'm currently working on chatbot development, workflow automation & Angular frontend apps
-- 🌱 I'm currently learning and exploring AI Agents, LLM-based workflows & Prompt Engineering
-- 💼 Working at [Redmind Technologies](https://www.linkedin.com/in/vignesh-v-b5ba02307/) – Namakkal
-- 🤖 Passionate about Dify, n8n, RAG-based chatbots and AI automation
-- 📫 Reach me at: vickyvignesh8695@gmail.com
-- Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vignesh-v-b5ba02307/) <br/> [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/code-error-modfy)
+<p align="center">
+  <img align="right" width="350" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+</p>
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/pytorch.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+- 🚀 Currently working as **AI & Full Stack Developer** @ **Redmind Technologies**, Namakkal
+- 🤖 Building **AI-powered chatbots** using **Dify, LLMs & RAG**
+- ⚙️ Automating business workflows with **n8n** (Instagram, Facebook, Email, OCR pipelines)
+- 🎨 Crafting responsive frontends with **Angular & TypeScript**
+- 🛠️ Backend development with **Laravel, FastAPI, Flask & PHP**
+- 🧠 Exploring **Machine Learning, Deep Learning & NLP**
+- 🎓 M.Sc Data Science, Periyar University (2023–2025)
+- 📫 **Email:** vickyvignesh8695@gmail.com
 
-### AI & Automation Tools
-<img height="50" width="50" src="https://avatars.githubusercontent.com/u/127165244?s=200&v=4" title="Dify"/> <img height="50" width="50" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" title="n8n"/> <img height="50" width="50" src="https://ollama.com/public/ollama.png" title="Ollama"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/laravel.png" title="Laravel"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/flask.png" title="Flask"/>
+<br/>
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/github.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/docker.png"/> <img height="50" src="https://img.icons8.com/fluency/48/000000/postman-api.png"/> <img height="50" src="https://www.google.com/favicon.ico"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vignesh-v-b5ba02307/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/code-error-modfy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:vickyvignesh8695@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=dark&show_icons=true&&hide=issues,contribs)
+---
 
-[![Vignesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-error-modfy&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🤖 AI & Automation
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Dify-1A1A1A?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+---
+
+### 💼 What I've Built
+
+| Project | Highlights |
+|---|---|
+| 🏭 **Warehouse Management System** | Angular frontend for SO, ASN, Pick-Pack-Delivery, Billing & Customer Configuration |
+| 🗳️ **DMK Web Application** | Angular + PHP, scan-based attendance with location verification, role-based ID generation |
+| 📊 **Cortex CRM** | Laravel-based CRM with AI image generation & n8n social media automation |
+| 🌍 **Expertech LLC (UAE)** | Proposal, Invoice, PO, Receipt & Quotation modules with PDF generation |
+| 💬 **Dify Chatbot** | RAG-based conversational AI with web scraping & automated data pipelines |
+| ⚙️ **N8N Automation** | Email & OCR automation agents, Instagram/Facebook workflow integrations |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-error-modfy&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Vignesh's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-error-modfy&theme=radical&hide_border=true" alt="streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-error-modfy&bg_color=0d1117&color=00ff7f&line=00ff7f&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=code-error-modfy&style=for-the-badge&color=00ff7f" alt="profile views"/>
+</p>
